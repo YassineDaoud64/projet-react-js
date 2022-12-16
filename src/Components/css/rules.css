@@ -1,0 +1,19 @@
+.text-center{
+    color:#FFE607;
+    text-shadow: 4px 4px 8px #000000; 
+text-align: center;
+}
+
+.tb1{
+    text-transform:uppercase;
+    color: aqua;
+    font-weight: bolder;
+}
+.tb2{
+    font-weight: bolder;
+
+}
+.tb3{
+    color :green;
+    font-weight: bolder;
+}

@@ -1,0 +1,13 @@
+.ja{
+text-align: center;
+padding: 80px;
+margin: 30px;
+}
+
+input[type='email'], input[type='password']{
+    width:80%;
+text-align:center
+}
+button {
+    width: 80%;
+}

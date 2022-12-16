@@ -1,0 +1,31 @@
+.img64{
+    width: 70px;
+    height: 50px;
+}
+.Navbar{
+    background-color: #FFF8EB
+}
+#y{
+    font-size: 25px;
+    color: black;
+
+}
+
+#y:hover{
+    color: #08ADF3;
+    font-weight: bolder;
+}
+#a{
+    font-size: 25px;
+    color: #08ADF3;
+}
+#h:hover{
+    font-size: 15px;
+    color: #08ADF3;
+    font-weight: bolder;
+    
+}
+#h{
+color:#f8ce84 ;
+font-weight: bolder;
+}
